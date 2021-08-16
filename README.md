@@ -8,7 +8,7 @@
 
 ## Assignments
 
-- All the Assignment work as described in the [Assignment](https://tinyurl.com/AtlantisBackendTest).
+- All the Assignment work as described in the from Input to Output [Assignment](https://tinyurl.com/AtlantisBackendTest). except Wifi assignment the filename is **wifii.py** instead of wifi.py.
 
 ### Dictionary Search
 
